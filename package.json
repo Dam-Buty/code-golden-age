@@ -1,0 +1,21 @@
+{
+  "name": "golden-age",
+  "displayName": "Golden Age",
+  "description": "A warm 70s inspired theme for Fall season",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Golden Age",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Golden Age-color-theme.json"
+      }
+    ]
+  }
+}
