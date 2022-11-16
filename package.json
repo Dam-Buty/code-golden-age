@@ -2,7 +2,7 @@
   "name": "golden-age",
   "displayName": "Golden Age",
   "description": "A warm 70s inspired Fall season theme for VS Code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "engines": {
     "vscode": "^1.73.0"
@@ -33,4 +33,3 @@
     ]
   }
 }
-
