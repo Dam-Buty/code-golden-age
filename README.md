@@ -1,16 +1,11 @@
-# golden-age README
+# Golden Age
 
-## Working with Markdown
+_A warm 70s inspired Fall season theme for VS Code_
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Preview
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+This theme was created using [Theme Studio](https://themes.vscode.one/theme/Damso/OiGZT3f6). Head over there to star or fork it !
 
-## For more information
+![Screenshot](./screenshot.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+**Made with 💝 from beautiful Bordeaux 🍷**
